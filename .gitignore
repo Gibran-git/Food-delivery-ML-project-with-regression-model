@@ -1,9 +1,8 @@
+# Python bytecode (compiled files)
 __pycache__/
 *.py[cod]
 *$py.class
 
+# Jupyter Notebook checkpoints (very important to hide)
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
-
-
